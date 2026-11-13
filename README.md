@@ -59,7 +59,8 @@ Allows users to filter dashboard data by year and month.
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Room Dashboard](images/hospital-emergency-dashboard.png)
+<img width="1637" height="727" alt="hospital_emergency final dashboard" src="https://github.com/user-attachments/assets/7932cdbf-4454-49b0-9fca-c28a99e568a6" />
+
 
 ## 🚀 How to Use the Project
 
